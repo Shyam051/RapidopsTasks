@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container{
+    width: 500px;
+    text-align: center;
+}
+#time{
+    margin-bottom: 20px;
+}
+#input{
+    margin-bottom: 20px;
+    width: max-content;
+}
+input[type=text] {
+    font-size:large;
+}
+#text{
+    margin-right: 10px;
+}
+#buttons{
+    /* width: 400px; */
+}
+.btn{
+    margin: 1px;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
+#start{
+    background-color: green;
+}
+#stop{
+    background-color: red;
+}
+#resume{
+    background-color: yellow;
+    color: black;
+}
+#reset{
+    background-color: orange;
+}

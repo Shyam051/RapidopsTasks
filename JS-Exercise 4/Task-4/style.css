@@ -1,0 +1,15 @@
+#row{
+    margin-top: 100px;
+}
+#main-container{
+    margin-bottom: 100px;
+}
+.col{
+    margin-bottom: 15px;
+}
+.btn{
+    margin-left: 15px;
+}
+.col-md-1{
+    width: auto;
+}
